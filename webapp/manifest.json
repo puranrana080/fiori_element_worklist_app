@@ -129,6 +129,19 @@
             "tableSettings": {
               "multiSelect": true,
               "type": "ResponsiveTable"
+            },
+            "quickVariantSelection": {
+              "showCounts": true,
+              "variants": {
+                "0": {
+                  "key": "idPermanent",
+                  "annotationPath": "com.sap.vocabularies.UI.v1.SelectionVariant#SVPermanent"
+                },
+                "1": {
+                  "key": "idProbationary",
+                  "annotationPath": "com.sap.vocabularies.UI.v1.SelectionVariant#SVProbationary"
+                }
+              }
             }
           }
         },
