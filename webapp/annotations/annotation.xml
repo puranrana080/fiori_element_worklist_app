@@ -24,6 +24,7 @@
                 </Record>
                 <Record Type="UI.DataField">
                     <PropertyValue Property="Value" Path="Status" />
+                    <PropertyValue Property="Criticality" Path="Statuscriticality" />
                 </Record>
                 <Record Type="UI.DataField">
                     <PropertyValue Property="Value" Path="Rating" />
