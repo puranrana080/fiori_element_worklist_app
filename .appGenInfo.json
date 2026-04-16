@@ -1,0 +1,32 @@
+{
+  "generationParameters": {
+    "generationDate": "Thu Apr 16 2026 10:44:28 GMT+0000 (Coordinated Universal Time)",
+    "generatorPlatform": "SAP Business Application Studio",
+    "serviceType": "OData URL",
+    "metadataFilename": "",
+    "serviceUrl": "http://airdithanadev.airditsoftware.com:8010/sap/opu/odata/sap/ZP5FE_EMP_SRV",
+    "appName": "p5fewlsegw",
+    "appTitle": "Worklist Application",
+    "appDescription": "An SAP Fiori worklist application.",
+    "appNamespace": "com.demoworklist",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.136.0",
+    "enableEslint": true,
+    "enableTypeScript": false,
+    "showMockDataInfo": true,
+    "generatorVersion": "1.22.0",
+    "template": "Worklist Page V2",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "EmployeeSet"
+      },
+      {
+        "type": "Navigation Entity",
+        "value": "toProjects"
+      }
+    ],
+    "launchText": "To launch the generated application, run the following from the generated application root folder:\n\n```\n    npm start\n```"
+  }
+}
